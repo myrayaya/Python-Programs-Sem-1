@@ -3,10 +3,10 @@
 ## b) Generate all prime numbers till 'n'
 ---
 
-a) n = int(input('Enter the value: '))
+a) 
+n = int(input('Enter the value: '))
 
 if n>1:
-    
     for i in range (2,n):
         
         if n % i== 0:
@@ -18,3 +18,5 @@ if n>1:
         
     else:
         print (n, "is not a Prime Number")
+![image](https://github.com/user-attachments/assets/cedbad50-57c7-443c-b453-6a56b6e0c83e)
+![image](https://github.com/user-attachments/assets/ddcc6489-b790-4611-9964-d6e2bd68154a)
