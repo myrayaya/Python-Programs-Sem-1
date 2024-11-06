@@ -4,7 +4,9 @@
 ## Code:
 
 a = int(input("Enter the value: "))
+
 b = int(input("Enter the value: "))
+
 c = int(input("Enter the value: "))
 
 d = b ** 2 - 4 * a * c
