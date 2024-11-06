@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0b21ace-c050-4052-8d2d-60247fca4e24)# Programming With Python Semester-1
+# Programming With Python Semester-1
 ## Program-1: Write a program to find the roots of a quadratic equation
 ---
 ## Code:
