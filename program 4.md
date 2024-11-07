@@ -5,9 +5,11 @@ a) print whether the character is a letter or numeric digit or a special charact
 b) if the character is a letter, print whether the letter is uppercase or lowercase
 
 c) if the character is a numeric digit, prints its name in text
+
 ---
 ## Code:
 
+```
 charac = input("Enter the data: ")
 
 if charac >= 'A' and charac <= 'Z':
@@ -31,6 +33,8 @@ elif charac >= '0' and charac <= '9':
 else:
     
     print(charac, "is a Special Character")
+
+```
 
 ![image](https://github.com/user-attachments/assets/c14e532c-2d0f-46af-9c9f-decc88cdb9a4)
 
