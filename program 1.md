@@ -3,6 +3,7 @@
 ---
 ## Code:
 
+```
 a = int(input("Enter the value: "))
 
 b = int(input("Enter the value: "))
@@ -21,6 +22,8 @@ if d >= 0:
 else:
 
     print("There are no real roots")
+
+```
     
 ![image](https://github.com/user-attachments/assets/285a7ac6-a807-4f1d-8d24-0688b05b27d3)
 
